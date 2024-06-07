@@ -1,1 +1,2 @@
 Website Company Profile Kantor Kecamatan Paiton, Tugas Akhir Praktek Kerja Lapangan Rekayasa Perangkat Lunak SMKN 2 Kraksaan 
+Terdapat 2 website, dashboard admin dan user. Dashboard admin di khususkan bagi administrator yang ingin mengupdate kegiatan, berita, dan agenda yang ada di kantor kecamatan paiton. Sedangkan user digunakan untuk khalayak umum (pengguna umum) untuk melihat berita, agenda, dan kegiatan yang diadakan oleh kantor kecamatan paiton
